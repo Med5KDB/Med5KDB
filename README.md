@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm currently on a tremendous project<br>📚 I'm currently learning DevOps and other new things<br>💬 Ask me about React, NestJs, GraphQL<br>📫 You can reach me at mohamedlaminebadji5@gmail.com<br>⚡ Fun fact, Hmmm I think I am a funny coder</p>
+<p align="left">✨ I'm currently on a tremendous project<br>📚 I'm currently learning DevOps and other new things<br>💬 Ask me about React, NestJs, GraphQL<br>📫 You can reach me at gagnisaerdiop@esp.sn<br>⚡ Fun fact, Hmmm I think I am a funny coder</p>
 
 ###
 
