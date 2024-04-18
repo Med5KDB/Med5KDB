@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Mohamed Lamine Badji, a FullStack Developer and DevOps Enthusiast. My journey in the world of programming has been an exciting one, and I take pride in constantly upgrading my skills to stay up-to-date with the latest technologies and trends.</p>
+<p align="left">I'm Gagni Saer Diop, a FullStack Developer and DevOps Enthusiast. My journey in the world of programming has been an exciting one, and I take pride in constantly upgrading my skills to stay up-to-date with the latest technologies and trends.</p>
 
 ###
 
