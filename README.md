@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Gagni Saer Diop, a FullStack Developer and DevOps Enthusiast. My journey in the world of programming has been an exciting one, and I take pride in constantly upgrading my skills to stay up-to-date with the latest technologies and trends.</p>
+<p align="left">I'm Mohamed Lamine Badji, a FullStack Developer and DevOps Enthusiast. My journey in the world of programming has been an exciting one, and I take pride in constantly upgrading my skills to stay up-to-date with the latest technologies and trends.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm currently on a tremendous project<br>📚 I'm currently learning DevOps and other new things<br>💬 Ask me about React, NestJs, GraphQL<br>📫 You can reach me at gagnisaerdiop@esp.sn<br>⚡ Fun fact, Hmmm I think I am a funny coder</p>
+<p align="left">✨ I'm currently on a tremendous project<br>📚 I'm currently learning DevOps and other new things<br>💬 Ask me about React, NestJs, GraphQL<br>📫 You can reach me at mohamedlaminebadji5@gmail.com <br>⚡ Fun fact, Hmmm I think I am a funny coder</p>
 
 ###
 
