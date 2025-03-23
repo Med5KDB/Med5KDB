@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I like working on tremendous projects<br>📚 I'm currently learning DevOps and other new things<br>💬 Ask me about React, NestJs, GraphQL <br>📫 You can reach me at mohamedlaminebadji5@gmail.com<br>⚡Fun fact, hmmm let me think about it 🤔</p>
+<p align="left">✨ I like exploring algorithms and working on tremendous projects<br>📚 I'm currently learning DevOps and other new things<br>💬 Ask me about React, NestJs, GraphQL <br>📫 You can reach me at mohamedlaminebadji5@gmail.com<br>⚡Fun fact, hmmm let me think about it 🤔</p>
 
 ###
 
